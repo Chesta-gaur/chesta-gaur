@@ -6,6 +6,13 @@ Currently exploring **React.js** and building projects to strengthen my frontend
 
 ---
 
+A dedicated and motivated fresher with a strong foundation in web development and programming. 
+Proficient in HTML, CSS, JavaScript, and currently exploring React and Node.js to strengthen my skills in full-stack development. 
+Passionate about problem-solving, teamwork, and continuous learning. Currently, I am seeking opportunities as a Software Developer Intern / Entry-Level Engineer 
+to apply my skills and gain hands-on experience in professional projects.
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 **Frontend:**  
@@ -39,9 +46,9 @@ React.js • Modern UI frameworks • APIs & JSON data integration
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/chesta-gaur-696739269/)  
-[![GitHub](https://github.com/Chesta-gaur)  
-📧 **Email:** [chestagaur004@gmail.com](mailto:chestagaur004@gmail.com)
+**Linkedin:** (https://www.linkedin.com/in/chesta-gaur-696739269/)  
+**Github:** (https://github.com/Chesta-gaur)  
+**Email:** (mailto:chestagaur004@gmail.com)
 
 ---
 
